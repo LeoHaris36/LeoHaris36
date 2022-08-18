@@ -14,19 +14,20 @@ Ich habe gelernt wie man genau mit einem Messer umgeht und verschiedene Schneide
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
 Die Schneidetechnik basiert darauf dass man möglichst schnell und sicher Schneidet, da ein Koch mit wenigern Fingern langsamer arbeitet. Jedes Messer hat eine andrere Technik. Die bekannteste Technik und eine der Einfachsten ist die des europäischen Messers, welche ich am meisten gebraucht habe, die für das Scheiben- und Würfelschneiden gebraucht wird. Hier muss man die Zutaten mit den Fingerspitzen festhalten und den mittleren teil des Fingers Gerade halten, damit man das Messer führen kann und am Finger entlang gleitet und nicht hinein schneidet. 
+
 [Hier](https://www.youtube.com/watch?v=UBsXJxUCjx4) können Sie ein kurzes Video mit verschiedenen Techniken sehen.
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
+
+![image](https://user-images.githubusercontent.com/111046405/185321705-339ab861-e1bf-4d8c-ab19-5adfef02a8b3.png)
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Die Medien erklären welche Technik ich am meisten gebrauch habe, wie sie funktoniert und welche anderen ich noch gelernt habe
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich habe sehr präzise und ausdauernd gearbeitet.
 
-👎 und etwas, was nicht gut lief.
+Ich war etwas langsam da ich noch kein gefühl hatte.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
