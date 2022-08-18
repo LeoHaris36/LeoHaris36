@@ -32,5 +32,6 @@ Ich habe sehr präzise und ausdauernd gearbeitet.
 
 Ich war etwas langsam, da ich noch kein Gefühl hatte und trotzdem die Stücke möglichst perfekt schneiden wollte.
 
-**VBV**: 
+**VBV**
+
 Es muss nicht alles immer perfekt sein, solange es noch brauchbar ist. Ich sollte probieren eine Balance zu finden zwischen schnell und perfekt. Diese finde ich, indem ich ausprobiere immer etwas schneller zu gehen, bis ich ein gutes Tempo habe und mit der Zeit sollte ich mich dann daran gewöhnen.
