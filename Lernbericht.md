@@ -3,7 +3,7 @@ Leo Haris Sljivar
 
 ## Einleitung
 
-Ich habe in einer Küche gearbeitet und mehr über den Beruf Koch erfahren.
+Ich habe in einer Küche gearbeitet und mehr über den Beruf Koch zu erfahren.
 
 ## Was habe ich gelernt?
 
@@ -11,9 +11,9 @@ Ich habe gelernt, wie man genau mit einem Messer umgeht und verschiedene Schneid
 
 ## Beschreibung
 
-Die Schneidetechnik basiert darauf, dass man möglichst schnell und sicher schneidet, da ein Koch mit wenigern Fingern langsamer arbeitet.
+Die Schneidetechnik basiert darauf, dass man möglichst schnell und sicher schneidet, da ein Koch mit 4 Fingern langsamer arbeitet.
 
-Jedes Messer hat eine andrere Technik. Die bekannteste Technik und eine der Einfachsten ist die des europäischen Messers, welche ich am meisten gebraucht habe, die für das Scheiben- und Würfelschneiden gebraucht wird.
+Jedes Messer hat eine andrere Technik. Die bekannteste Technik und eine der Einfachsten und ist die des europäischen Messers, welche ich am meisten gebraucht habe, die für das Scheiben- und Würfelschneiden gebraucht wird.
 
 Hier muss man die Zutaten mit den Fingerspitzen festhalten und den mittleren Teil des Fingers gerade halten, damit man das Messer führen kann und am Finger entlang gleitet und nicht hineinschneidet. 
 
