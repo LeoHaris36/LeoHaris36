@@ -1,19 +1,20 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Leo Haris Sljivar
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Ich habe in einer Küche gearbeitet und mehr über den Beruf Koch erfahren.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt wie man genau mit einem Messer umgeht und verschiedene Schneidetechniken für allerlei Zutaten
 
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
+Die Schneidetechnik basiert darauf dass man möglichst schnell und sicher Schneidet, da ein Koch mit wenigern Fingern langsamer arbeitet. Jedes Messer hat eine andrere Technik. Die bekannteste Technik und eine der Einfachsten ist die des europäischen Messers, welche ich am meisten gebraucht habe, die für das Scheiben- und Würfelschneiden gebraucht wird. Hier muss man die Zutaten mit den Fingerspitzen festhalten und den mittleren teil des Fingers Gerade halten, damit man das Messer führen kann und am Finger entlang gleitet und nicht hinein schneidet. 
+[Hier](https://www.youtube.com/watch?v=UBsXJxUCjx4) können Sie ein kurzes Video mit verschiedenen Techniken sehen.
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
